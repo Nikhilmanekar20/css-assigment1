@@ -1,0 +1,36 @@
+.p
+{
+    color: brown;
+    text-align: left;
+}
+.heading2
+{
+    color: red;
+}
+.anchor
+{
+    text-decoration-line: none;
+    color: red;
+    background-color: yellow;
+}
+.heading
+{
+    color: red;
+    font-style: italic;
+}
+.para
+{
+    color: brown;
+}
+.list
+{
+    color: brown;
+}
+.line
+{
+    text-decoration: line-through;
+}
+.prep
+{
+    color: red;
+}
